@@ -1,4 +1,3 @@
-Fatih Altınışık Blockchain, [23.11.2024 16:39]
 import Principal "mo:base/Principal";
 import HashMap "mo:base/HashMap";
 import Hash "mo:base/Hash";
@@ -136,8 +135,7 @@ actor TokenMarketplace {
             return #err("Insufficient tokens to list");
         };
 
-Fatih Altınışık Blockchain, [23.11.2024 16:39]
-switch (tokens.get(tokenId)) {
+        switch (tokens.get(tokenId)) {
             case (null) { #err("Token not found") };
             case (?token) {
                 if (token.owner != caller) {
@@ -247,8 +245,7 @@ switch (tokens.get(tokenId)) {
     public query func getListedTokens() : async [Token] {
     let listedTokens = Buffer.Buffer<Token>(0);
 
-Fatih Altınışık Blockchain, [23.11.2024 16:39]
-for ((tokenId, listing) in listings.entries()) {
+    for ((tokenId, listing) in listings.entries()) {
         switch (tokens.get(tokenId)) {
             case (?token) {
                 let tokenWithListing = {
