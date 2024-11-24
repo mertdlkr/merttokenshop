@@ -1,6 +1,7 @@
 ICP ve Işık Üniversitesi Ortaklığında yapılan Motoko Hackathon'u için TokenShop isimli projemizdir.
 Proje paydaşları;
-Mert Dalkır
+Mert Dalkır 
+ve
 Fatih Altınışık
 
 
