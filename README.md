@@ -1,4 +1,4 @@
-ICP Türkiye ve Işık Üniversitesi IT/MIS Ortaklığında yapılan Motoko Hackathon'u için TokenShop isimli projemizdir.
+ICP Türkiye ve Işık Üniversitesi IT/MIS Ortaklığında yapılan Motoko Hackathon'u için Işık Blockchain takımı olarak yaptığımız TokenShop isimli projemizdir.
 Proje paydaşları;
 Mert Dalkır 
 ve
