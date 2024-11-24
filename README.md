@@ -3,4 +3,6 @@ Proje paydaşları;
 Mert Dalkır
 Fatih Altınışık
 
-![resim](https://github.com/user-attachments/assets/f0ed6f2a-d1b9-466d-877b-e34848ba018d)
+
+![resim](https://github.com/user-attachments/assets/ca7672ae-bb15-4267-8e97-7614c9806223)
+
